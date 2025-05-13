@@ -13,7 +13,7 @@ client = Client(API_KEY, API_SECRET)
 TIPO_VELA = 'alcista'   # 'alcista' o 'bajista'
 CANTIDAD_VELAS = 5      # Número de velas consecutivas
 INTERVALO = '1d'        # Temporalidad: 1m, 5m, 15m, 1h, 4h, 1d, etc.
-
+#git de prueba segundooooooooooooooooooooooooooooooooooooooooooo
 # ==============================
 # FUNCIONES DEL BOT
 # ==============================
